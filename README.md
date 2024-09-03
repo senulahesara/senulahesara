@@ -1,5 +1,5 @@
 #  Senula Hesara
-🔭 I’m currently working on As a student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java<br>💬 Ask me about Java<br>⚡ Fun fact 
+🔭 I’m currently working on As a student<br>🌱 I’m currently learning Java<br>💬 Ask me about Java
 
 
 ## 🌐 Socials:
@@ -19,4 +19,3 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/senula) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
