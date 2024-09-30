@@ -32,7 +32,7 @@ Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
         <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=senulahesara" alt="senulahesara" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senulahesara&theme=transparent" alt="goldsunshines" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senulahesara&theme=transparent" alt="senulahesara" /></a>
     </td>
   </tr>
   <tr>
