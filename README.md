@@ -2,11 +2,11 @@
 
 <h3 align="center"> <b>⭐⭐⭐ Software Engineer ⭐⭐⭐</b></h3>
 
-### 😉 About Me
+### About Me
 
 With over 2 years of experience in the technology industry, I specialize in front-end and back-end web development and stand alone applications. My expertise spans a variety of languages, frameworks, and technologies, enabling me to deliver robust, scalable, and innovative solutions.
 
-### 💻 What can I do ?
+### What can I do ?
 #### Languages
 Java, Javascript, PHP, Python
 #### Web Development
@@ -16,20 +16,9 @@ Backend Development: Node.js, Express.js, NestJS, Django, Flask, FastAPI, Larave
 Skills: LLM, GPT-4, Claude, Bloom, RAG, Vector DB, AI Chatbot, Image Generation, Audio Generation, Video Generation <br>
 Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=senulahesara&icon=6&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/senula) 
-
-  <table align="center">
+<table align="center">
   <tr>
-    <!--<td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=senulahesara" alt="senulahesara" /></a>
-    </td>-->
     <td align="center" width="60%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senulahesara&theme=transparent" alt="senulahesara" /></a>
     </td>
@@ -43,5 +32,16 @@ Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
     </td>
   </tr>
 </table>
+
+![](https://github-readme-stats.vercel.app/api?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/senula) 
+
+  ---
+[![](https://visitcount.itsvg.in/api?id=senulahesara&icon=6&color=1)](https://visitcount.itsvg.in)
+
+  
 
   
