@@ -17,7 +17,6 @@ Skills: LLM, GPT-4, Claude, Bloom, RAG, Vector DB, AI Chatbot, Image Generation,
 Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=senulahesara&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -28,9 +27,9 @@ Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
 
   <table align="center">
   <tr>
-    <td align="center" width="40%">
+    <!--<td align="center" width="40%">
         <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=senulahesara" alt="senulahesara" /></a>
-    </td>
+    </td>-->
     <td align="center" width="60%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senulahesara&theme=transparent" alt="senulahesara" /></a>
     </td>
