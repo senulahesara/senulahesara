@@ -31,9 +31,14 @@ Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
         <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=senulahesara&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="goldsunshines" /></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="55%">
+    ![](https://github-readme-stats.vercel.app/api?username=senulahesara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+    </td>
+  </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=senulahesara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### You can help me by Donating
