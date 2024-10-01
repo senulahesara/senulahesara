@@ -33,12 +33,12 @@ Generative AI: GPT-4, DALL-E, Stable Diffusion, VQ-VAE, GANs <br>
   </tr>
   <tr>
     <td align="center" width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=senulahesara&theme=light&hide_border=true&include_all_commits=true&count_private=true" alt="senulahesara stats"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=senulahesara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="senulahesara stats"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center" width="55%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senulahesara&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/><br/>
     </td>
   </tr>
 </table>
