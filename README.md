@@ -14,11 +14,6 @@ I focus on designing and developing software with a strong emphasis on security,
 <h2>Current Study</h2>
 <p>I am currently learning about Artificial Intelligence, exploring how it can enhance learning platforms, security systems, and future applications.</p>
 
-## Let’s Connect
-- [Senula Hesara](https://senulahesara.vercel.app/) 
-- [LinkedIn](https://www.linkedin.com/in/senulahesara/) 
-- [Email](senulahesara01@gmail.com)  
-
 
 
 
