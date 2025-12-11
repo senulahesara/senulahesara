@@ -1,23 +1,10 @@
-<h1>Hi, I'm Senula Hesara</h1>
-<p>I’m an undergraduate Software Engineer from Sri Lanka, passionate about building secure, meaningful, and impactful software. My goal is to create brands and platforms that stand out with purpose - whether in cybersecurity, web engineering, or premium consumer experiences.
-
-I believe software should not just work - it should feel safe, trustworthy, and transformative.</p>
-
-<h2>What I Do</h2>
-I focus on designing and developing software with a strong emphasis on security, scalability, and user experience. My interests span across:
-<ul>
-<li>Web engineering</li>
-<li>Cybersecurity</li>
-<li>Entrepreneurship and digital branding</li>
-</ul>
-
-<h2>Current Study</h2>
-<p>I am currently learning about Artificial Intelligence, exploring how it can enhance learning platforms, security systems, and future applications.</p>
-
-
-
-
-
-  
-
-  
+<p className="select-none text-justify">
+                            I’m{' '}
+                            <span className="text-white font-semibold select-none">
+                                Senula Hesara
+                            </span>
+                            , a Software Engineer who walks the line between logic and
+                            artistry. Every system I build is a reflection of security,
+                            precision, and emotion. I seek not to follow trends - but to
+                            define new paths.
+                        </p>
