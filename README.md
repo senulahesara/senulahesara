@@ -1,5 +1,5 @@
 <p className="select-none text-justify">
-                            I’m{' '}
+                            I’m
                             <span className="text-white font-semibold select-none">
                                 Senula Hesara
                             </span>
