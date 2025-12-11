@@ -1,8 +1,9 @@
 <p className="select-none text-justify">
                             I’m
+  <b>
                             <span className="text-white font-semibold select-none">
                                 Senula Hesara
-                            </span>
+                            </span></b>
                             , a Software Engineer who walks the line between logic and
                             artistry. Every system I build is a reflection of security,
                             precision, and emotion. I seek not to follow trends - but to
